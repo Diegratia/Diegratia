@@ -1,6 +1,6 @@
 ### Hi! 👋 I'm Dion.
 
-An Information System Student at Atma Jaya Yogyakarta, im curently at my 6th semester 
+An Information System Student at Atma Jaya Yogyakarta, im currently at my 6th semester 
 
 
 - 🌱 I’m currently learning about cloud computing technology 
