@@ -7,8 +7,8 @@ An Information System Student at Atma Jaya Yogyakarta, im curently at my 6th sem
 - 📫 How to reach me: d.diegratiafebrian.com
 
 ### Tech Stack
-  <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
-  <a href="#"><img align="left" alt="PHP" title="PHP" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" /></a>
+  <a href="#"><img align="left" alt="JavaScript" title="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
+  <a href="#"><img align="left" alt="PHP" title="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /></a>
  
   <br>
   <br>
