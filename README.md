@@ -1,8 +1,7 @@
 ### Hi! 👋 I'm Dion.
 
-An independent Software Engineer who loves to create and share projects about web and mobile technology! I've enjoyed JavaScript and make it the main language in creating a project.
+An Information System Student at Atma Jaya Yogyakarta, im curently at my 6th semester 
 
-I'm currently active in contributing as Curriculum Developer at <a href="https://github.com/dicodingacademy">@dicodingacademy</a> to build courses in Front-End Apps (Web, Android) and Back-End Service.
 
 - 🌱 I’m currently learning about cloud computing technology 
 - 📫 How to reach me: d.diegratiafebrian.com
@@ -18,14 +17,12 @@ I'm currently active in contributing as Curriculum Developer at <a href="https:/
   
 ### Github Statistic
 <p align="left">
-<a href="https://github.com/dimasmds">
+<a href="https://github.com/diegratia">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dimasmds&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dimasmds&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
 ### Reach me on
-- <a href="https://linkedin.com/in/dimasmds/">LinkedIn</a>
-- <a href="https://dmds.dev">dmds.dev</a>
-- dimas@dicoding.com
-- <a href="https://twitter/dimsmds">Twitter</a>
+- <a href="https://linkedin.com/in/dionesius-diegratia-febrian/">LinkedIn</a>
+- d.diegratiafebrian@gmail.com
