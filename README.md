@@ -4,11 +4,12 @@ An Information System Student at Atma Jaya Yogyakarta, im currently at my 6th se
 
 
 - 🌱 I’m currently learning about cloud computing technology 
-- 📫 How to reach me: d.diegratiafebrian.com
+- 📫 How to reach me: dionesius.dfebrian@gmail.com
 
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
   <a href="#"><img align="left" alt="PHP" title="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /></a>
+  <a href="#"><img align="left" alt="Nodejs" title="Nodejs" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /></a>
  
   <br>
   <br>
