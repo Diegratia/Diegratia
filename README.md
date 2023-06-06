@@ -24,4 +24,4 @@ An Information System Student at Atma Jaya Yogyakarta, im currently at my 6th se
 
 ### Reach me on
 - <a href="https://www.linkedin.com/in/dionesius-diegratia-febrian-291176159/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a>
-- <a href="d.diegratiafebrian@gmail.com "><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+- <a href="dionesius.dfebrian@gmail.com "><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
