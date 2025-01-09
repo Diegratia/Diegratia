@@ -17,7 +17,7 @@ An Information System Student at Atma Jaya Yogyakarta, im currently at my 6th se
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/diegratia">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=diegratia&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+
    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=diegratia&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
