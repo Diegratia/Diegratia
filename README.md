@@ -1,10 +1,5 @@
 ### Hi! 👋 I'm Dion.
 
-An Information System Student at Atma Jaya Yogyakarta, im currently at my 6th semester 
-
-
-- 🌱 I’m currently learning about cloud computing technology 
-- 📫 How to reach me: dionesius.dfebrian@gmail.com
 
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
