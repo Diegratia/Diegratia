@@ -1,6 +1,6 @@
 
 ### Hi! 👋 I'm Dion.  
-A passionate developer who loves building things with code.
+I am a passionate developer who loves building things with code.
 
 ---
 
@@ -17,11 +17,10 @@ A passionate developer who loves building things with code.
 
 ### 📊 GitHub Stats
 
-<p align="center">
+
   <a href="https://github.com/diegratia">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegratia&layout=compact&theme=radical"/>
   </a>
-</p>
 
 ---
 
