@@ -1,35 +1,36 @@
 <h1 align="center">Hi 👋, I'm Dion</h1>
-<h3 align="center">Fullstack Developer | Problem Solver | Tech Enthusiast</h3>
+<h3 align="center">Backend Developer | PHP • Node.js • C# / .NET</h3>
 
 <p align="center">
-  Passionate about building scalable systems, clean architecture, and turning complex problems into simple solutions through code.
+Passionate about building scalable backend systems, clean architecture, and efficient APIs.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Fullstack developer focused on modern web technologies  
-- ⚙️ Love working with backend systems & scalable architecture  
-- 🧠 Always learning and exploring new technologies  
-- 🎯 Goal: Build impactful and efficient digital solutions  
+- 💻 Backend-focused developer  
+- ⚙️ Experienced in REST API & system integration  
+- 🧱 Strong in clean architecture & maintainable code  
+- 🚀 Enjoy building reliable and scalable systems  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💡 Languages & Runtime
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+### 💡 Languages & Frameworks
+<p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 </p>
 
-### 🛠️ Tools & Workflow
-<p>
+### 🛠️ Tools
+<p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
 ---
@@ -45,9 +46,9 @@
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect With Me
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/dionesius-diegratia-febrian-291176159/">
     <img src="https://img.shields.io/badge/LinkedIn-Dion%20Febrian-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -59,5 +60,5 @@
 ---
 
 <p align="center">
-  ⭐ If you like my work, feel free to explore my repositories and give a star!
+⭐ Focused on building reliable backend systems.
 </p>
