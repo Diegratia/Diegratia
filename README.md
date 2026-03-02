@@ -17,28 +17,28 @@
 
 ---
 
+
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
+  <img 
+    height="170" 
+    src="https://github-readme-stats.vercel.app/api?username=diegratia&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" 
+  />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=diegratia&show_icons=true&theme=radical&hide_border=true" />
+<p align="center">
+  <img 
+    height="170" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=diegratia&theme=radical&hide_border=true" 
+  />
+</p>
 
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=diegratia&theme=radical&hide_border=true" />
-
-</td>
-
-<td width="50%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegratia&layout=compact&theme=radical&hide_border=true" />
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img 
+    height="170" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegratia&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" 
+  />
 </p>
 
 ---
