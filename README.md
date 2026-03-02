@@ -1,64 +1,55 @@
-<h1 align="center">Hi 👋, I'm Dion</h1>
+<h1 align="center">Dion</h1>
 <h3 align="center">Backend Developer | PHP • Node.js • C# / .NET</h3>
 
+---
+
+<h3 align="center">🔧 Languages & Tools 🔧</h3>
+
 <p align="center">
-Passionate about building scalable backend systems, clean architecture, and efficient APIs.
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
 </p>
 
 ---
 
-## 🚀 About Me
-
-- 💻 Backend-focused developer  
-- ⚙️ Experienced in REST API & system integration  
-- 🧱 Strong in clean architecture & maintainable code  
-- 🚀 Enjoy building reliable and scalable systems  
-
----
-
-## 🛠️ Tech Stack
-
-### 💡 Languages & Frameworks
-<p align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-</p>
-
-### 🛠️ Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-</p>
-
----
-
-## 📊 GitHub Stats
+<h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <a href="https://github.com/diegratia">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegratia&show_icons=true&theme=radical&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegratia&layout=compact&theme=radical&hide_border=true"/>
-  </a>
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=diegratia&show_icons=true&theme=radical&hide_border=true" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=diegratia&theme=radical&hide_border=true" />
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegratia&layout=compact&theme=radical&hide_border=true" />
+
+</td>
+</tr>
+</table>
 </p>
 
 ---
 
-## 🤝 Connect With Me
+<h3 align="center">🤝 Connect With Me</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dionesius-diegratia-febrian-291176159/">
-    <img src="https://img.shields.io/badge/LinkedIn-Dion%20Febrian-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:dionesius.dfebrian@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-⭐ Focused on building reliable backend systems.
+<a href="https://www.linkedin.com/in/dionesius-diegratia-febrian-291176159/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:dionesius.dfebrian@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
